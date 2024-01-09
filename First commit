@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ayush Ranjan - Content Writer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1, h2 {
+            color: #333;
+        }
+
+        p {
+            line-height: 1.6;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Ayush Ranjan</h1>
+        <p>Content Writer</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>Experienced content writer with a passion for creating engaging and informative articles. Proven track record of delivering high-quality content for various industries.</p>
+    </section>
+
+    <section>
+        <h2>Work Experience</h2>
+        <p><strong>Company Name</strong> - Content Writer (Jan 2022 - Present)</p>
+        <p>Responsible for producing compelling and SEO-friendly content. Collaborated with marketing teams to create effective communication strategies.</p>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>Content Writing</li>
+            <li>SEO Optimization</li>
+            <li>Copywriting</li>
+            <li>Editing</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Contact</h2>
+        <p>Email: ayush@email.com</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/ayushranjan/" target="_blank">linkedin.com/in/ayushranjan</a></p>
+    </section>
+
+</body>
+</html>
